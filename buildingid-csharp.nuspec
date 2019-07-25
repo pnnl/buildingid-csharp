@@ -6,7 +6,7 @@
     <title>Unique Building Identification (UBID)</title>
     <authors>Mark Borkum</authors>
     <owners>pnnl</owners>
-    <licenseUrl>https://github.com/pnnl/buildingid-csharp/blob/master/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/pnnl/buildingid-csharp/blob/master/LICENSE.txt</licenseUrl>
     <projectUrl>https://buildingid.pnnl.gov/</projectUrl>
     <repository type="git" url="https://github.com/pnnl/buildingid-csharp" />
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
